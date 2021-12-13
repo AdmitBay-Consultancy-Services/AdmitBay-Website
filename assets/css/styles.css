@@ -1,0 +1,18 @@
+#hvr-navbar:hover {
+  border-bottom: solid;
+}
+
+#div-jumbotron {
+  background-image: url("../../assets/img/jumbotron1.jpg");
+  background-size: cover;
+}
+
+#btn-getitnow:hover {
+  background-color: white!important;
+}
+
+#h2-offer {
+  align-items: center;
+  width: 100%;
+}
+
