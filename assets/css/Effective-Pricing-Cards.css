@@ -86,7 +86,7 @@
 }
 
 #div-timeline {
-  background: linear-gradient(90deg, black, #063970 64%, rgb(42,72,106) 81%, #255c95 92%), #0c2e52;
+  background: linear-gradient(-90deg, black, #063970 64%, rgb(42,72,106) 81%, #255c95 92%), #0c2e52;
 }
 
 #why-choose-us {
