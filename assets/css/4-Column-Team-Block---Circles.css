@@ -86,3 +86,16 @@
   }
 }
 
+#navbar-image {
+  display: block;
+  width: 180px;
+  height: 90px;
+  margin: -30px 0px;
+}
+
+#footer-image {
+  height: 100px;
+  width: 180px;
+  margin-bottom: -40px;
+}
+
